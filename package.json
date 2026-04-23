@@ -1,0 +1,27 @@
+{
+  "name": "malik-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "keywords": [],
+  "homepage": "https://github.com/blackabdoul/malik-palindrome#readme",
+  "bugs": {
+    "url": "https://github.com/blackabdoul/malik-palindrome/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/blackabdoul/malik-palindrome.git"
+  },
+  "license": "ISC",
+  "author": "Malick",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "assert": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^12.0.0-beta-9.2"
+  }
+}
