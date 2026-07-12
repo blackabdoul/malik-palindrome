@@ -19,7 +19,9 @@
     "test": "mocha"
   },
   "dependencies": {
-    "assert": "^2.1.0"
+    "assert": "^2.1.0",
+    "webpack": "^5.107.1",
+    "webpack-cli": "^7.0.2"
   },
   "devDependencies": {
     "mocha": "^12.0.0-beta-9.2"
